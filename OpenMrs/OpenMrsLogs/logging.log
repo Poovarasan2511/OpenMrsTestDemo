@@ -1,0 +1,79 @@
+24-03-2025 04:22:21 pm INFO  CommonUtils:64 - Loading Property File
+24-03-2025 04:22:21 pm INFO  CommonUtils:69 - Retrieve Property File Value
+24-03-2025 04:22:21 pm INFO  BrowserDriverManager:27 - Setting Browser chrome
+24-03-2025 04:22:22 pm INFO  BrowserDriverManager:32 - Launching Chrome Browser
+24-03-2025 04:22:22 pm INFO  BrowserDriverManager:56 - Setting driver to the ThreadLocal Driver
+24-03-2025 04:22:22 pm INFO  CommonUtils:48 - Initializaion Of Page Objects
+24-03-2025 04:22:22 pm INFO  RegisterPatientSteps:59 - Log Starterd
+24-03-2025 04:22:22 pm INFO  CommonUtils:64 - Loading Property File
+24-03-2025 04:22:22 pm INFO  CommonUtils:69 - Retrieve Property File Value
+24-03-2025 04:32:30 pm INFO  CommonUtils:64 - Loading Property File
+24-03-2025 04:32:30 pm INFO  CommonUtils:69 - Retrieve Property File Value
+24-03-2025 04:32:30 pm INFO  BrowserDriverManager:25 - Setting Browser chrome
+24-03-2025 04:32:32 pm INFO  BrowserDriverManager:30 - Launching Chrome Browser
+24-03-2025 04:32:32 pm INFO  BrowserDriverManager:54 - Setting driver to the ThreadLocal Driver
+24-03-2025 04:32:32 pm INFO  CommonUtils:48 - Initializaion Of Page Objects
+24-03-2025 04:32:32 pm INFO  RegisterPatientSteps:59 - Log Starterd
+24-03-2025 04:32:32 pm INFO  CommonUtils:64 - Loading Property File
+24-03-2025 04:32:32 pm INFO  CommonUtils:69 - Retrieve Property File Value
+24-03-2025 04:32:32 pm INFO  RegisterPatientSteps:72 - Enter the site url
+24-03-2025 04:32:35 pm INFO  RegisterPatientSteps:82 - Login As Admin
+24-03-2025 04:32:36 pm INFO  RegisterPatientSteps:88 - Login Successfull
+24-03-2025 04:32:38 pm INFO  RegisterPatientSteps:96 - Clicking On Register A Patient
+24-03-2025 04:32:42 pm INFO  RegisterPatientSteps:100 - Retrieves Values From Json File FOr Patient Registration
+24-03-2025 04:32:42 pm INFO  RegisterPatientSteps:117 - Register The Patient
+24-03-2025 04:32:44 pm INFO  RegisterPatientSteps:140 - Verifying the patient details using assertion
+24-03-2025 04:32:44 pm INFO  RegisterPatientSteps:154 - Clicks On Submit Button After Verifying The Details
+24-03-2025 04:32:44 pm INFO  RegisterPatientSteps:164 - Clicks On Submit Button After Verifying The Details
+24-03-2025 04:32:51 pm INFO  RegisterPatientSteps:166 - Clicks On Start Visit
+24-03-2025 04:32:51 pm INFO  RegisterPatientSteps:174 - Clicks On Attachments
+24-03-2025 04:32:58 pm INFO  RegisterPatientSteps:179 - Uploading The Image
+24-03-2025 04:33:00 pm INFO  RegisterPatientSteps:182 - Verify The Upload Image Toaster Message
+24-03-2025 04:33:00 pm INFO  RegisterPatientSteps:189 - Verify The Uploaded Image Is uploaded successffully
+24-03-2025 04:33:04 pm INFO  RegisterPatientSteps:211 - Verify The Recent Entry as current date and Attachment Upload text
+24-03-2025 04:33:04 pm INFO  RegisterPatientSteps:218 - Clicks on End Visit Link
+24-03-2025 04:33:24 pm INFO  BrowserDriverManager:61 - Closing The Browser
+24-03-2025 04:33:24 pm INFO  BrowserDriverManager:63 - Removing ThreadLocal Driver
+24-03-2025 04:42:55 pm INFO  RegisterPatientSteps:24 - GETTING BROWSER NAME
+24-03-2025 04:42:55 pm INFO  RegisterPatientSteps:26 - LAUNCHING THE BROWSER
+24-03-2025 04:42:55 pm INFO  BrowserDriverManager:25 - Setting Browser chrome
+24-03-2025 04:42:56 pm INFO  BrowserDriverManager:30 - Launching Chrome Browser
+24-03-2025 04:42:56 pm INFO  BrowserDriverManager:54 - Setting driver to the ThreadLocal Driver
+24-03-2025 04:42:56 pm INFO  RegisterPatientSteps:28 - PAGE INITIALIZATION
+24-03-2025 04:42:56 pm INFO  CommonUtils:44 - Test Started
+24-03-2025 04:42:56 pm INFO  CommonUtils:48 - Initializaion Of Page Objects
+24-03-2025 04:42:56 pm INFO  RegisterPatientSteps:59 - Log Starterd
+24-03-2025 04:42:56 pm INFO  RegisterPatientSteps:72 - Enter the site url
+24-03-2025 04:43:00 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:00 pm INFO  RegisterPatientSteps:82 - Login As Admin
+24-03-2025 04:43:00 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:00 pm INFO  RegisterPatientSteps:88 - Login Successfull
+24-03-2025 04:43:02 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:02 pm INFO  RegisterPatientSteps:96 - Clicking On Register A Patient
+24-03-2025 04:43:08 pm INFO  RegisterPatientSteps:100 - Retrieves Values From Json File FOr Patient Registration
+24-03-2025 04:43:08 pm INFO  RegisterPatientSteps:117 - Register The Patient
+24-03-2025 04:43:09 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:09 pm INFO  RegisterPatientSteps:140 - Verifying the patient details using assertion
+24-03-2025 04:43:09 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:09 pm INFO  RegisterPatientSteps:154 - Clicks On Submit Button After Verifying The Details
+24-03-2025 04:43:10 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:10 pm INFO  RegisterPatientSteps:164 - Clicks On Submit Button After Verifying The Details
+24-03-2025 04:43:21 pm INFO  RegisterPatientSteps:166 - Clicks On Start Visit
+24-03-2025 04:43:22 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:22 pm INFO  RegisterPatientSteps:174 - Clicks On Attachments
+24-03-2025 04:43:28 pm INFO  RegisterPatientSteps:179 - Uploading The Image
+24-03-2025 04:43:30 pm INFO  RegisterPatientSteps:182 - Verify The Upload Image Toaster Message
+24-03-2025 04:43:30 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:30 pm INFO  RegisterPatientSteps:189 - Verify The Uploaded Image Is uploaded successfully
+24-03-2025 04:43:33 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:34 pm INFO  RegisterPatientSteps:211 - Verify The Recent Entry as current date and Attachment Upload text
+24-03-2025 04:43:34 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:34 pm INFO  RegisterPatientSteps:218 - Clicks on End Visit Link
+24-03-2025 04:43:34 pm INFO  RegisterPatientSteps:225 - Clicks on Delete patient Link
+24-03-2025 04:43:36 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:38 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:38 pm INFO  RegisterPatientSteps:238 - Searching for patient using patientID100M9M
+24-03-2025 04:43:43 pm INFO  RegisterPatientSteps:38 - TAKING SCREENSHOT FOR FAILED SCENARIOS
+24-03-2025 04:43:43 pm INFO  BrowserDriverManager:61 - Closing The Browser
+24-03-2025 04:43:43 pm INFO  BrowserDriverManager:63 - Removing ThreadLocal Driver
+24-03-2025 04:43:43 pm INFO  BrowserDriverManager:65 - Test Ended

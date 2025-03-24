@@ -1,0 +1,35 @@
+{
+	"PatientDetails_2": {
+		"GivenName": "Santhosh",
+		"FamilyName": "Kumar",
+		"Gender": "Male",
+		"BirthDay": "18",
+		"BirthMonth": "October",
+		"BirthYear": "2001",
+		"Address1": "Shanthi Colony",
+		"Address2": "Anna Nagar",
+		"City": "Chennai",
+		"State": "Tamil Nadu",
+		"Country": "India",
+		"PostalCode": "600040",
+		"PhoneNumber": "8610091385"
+	},
+	"PatientDetails_1": {
+		"GivenName": "Test",
+		"FamilyName": "Test",
+		"Gender": "Male",
+		"BirthDay": "18",
+		"BirthMonth": "October",
+		"BirthYear": "2001",
+		"Address1": "Test1",
+		"Address2": "Test12",
+		"City": "Chennai",
+		"State": "Tamil Nadu",
+		"Country": "India",
+		"PostalCode": "600040",
+		"PhoneNumber": "8610091234",
+		"FilePath": "C:\\Users\\Poovarasan.M\\Downloads\\FileUpload\\sampleQRCode.png",
+		"CaptionForFileUpload": "Test Upload",
+		"ReasonForPatientDelete": "Test Delete"
+	}
+}

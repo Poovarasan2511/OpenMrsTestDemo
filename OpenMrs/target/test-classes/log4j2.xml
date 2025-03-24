@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <!-- Console Logging -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{dd-MM-yyyy hh:mm:ss a} %-5p %c{1}:%L - %m%n"/>
+        </Console>
+
+        <!-- File Logging -->
+        <RollingFile name="FileLogger" 
+                     fileName="${sys:user.dir}/OpenMrsLogs/logging.log"
+                     filePattern="${sys:user.dir}/OpenMrsLogs/logging-%d{yyyy-MM-dd}.log.gz">
+            <PatternLayout>
+                <Pattern>%d{dd-MM-yyyy hh:mm:ss a} %-5p %c{1}:%L - %m%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+        <!--     <AppenderRef ref="Console"/> -->
+            <AppenderRef ref="FileLogger"/>
+        </Root>
+
+        <Logger name="SeleniumLogger" level="debug" additivity="false">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileLogger"/>
+        </Logger>
+    </Loggers>
+</Configuration>
