@@ -12,7 +12,11 @@
 		"State": "Tamil Nadu",
 		"Country": "India",
 		"PostalCode": "600040",
-		"PhoneNumber": "8610091385"
+		"PhoneNumber": "8610091385",
+		"FilePath": "C:\\Users\\Poovarasan.M\\Downloads\\FileUpload\\sampleQRCode.png",
+		"CaptionForFileUpload": "Test Upload",
+		"ReasonForPatientDelete": "Test Delete"
+
 	},
 	"PatientDetails_2": {
 		"GivenName": "Test",
