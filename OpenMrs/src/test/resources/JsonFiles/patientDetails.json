@@ -1,5 +1,5 @@
 {
-	"PatientDetails_2": {
+	"PatientDetails_1": {
 		"GivenName": "Santhosh",
 		"FamilyName": "Kumar",
 		"Gender": "Male",
@@ -14,7 +14,7 @@
 		"PostalCode": "600040",
 		"PhoneNumber": "8610091385"
 	},
-	"PatientDetails_1": {
+	"PatientDetails_2": {
 		"GivenName": "Test",
 		"FamilyName": "Test",
 		"Gender": "Male",
